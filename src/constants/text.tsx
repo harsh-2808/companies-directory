@@ -1,0 +1,15 @@
+export const TEXTS = {
+  PAGE_TITLE: "Companies",
+  LOADING: "Loading companies...",
+  ERROR_MESSAGE: "Failed to load companies. Please try again.",
+  NO_COMPANIES: "No companies found.",
+  SEARCH_PLACEHOLDER: "Search by name...",
+  FILTER_INDUSTRY: "Industry",
+  FILTER_LOCATION: "Location",
+  PREVIOUS: "Prev",
+  NEXT: "Next",
+  PAGE: "Page",
+  OF: "of",
+  VIEW: "View",
+  RETRY: "Retry",
+};
