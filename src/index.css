@@ -15,13 +15,14 @@
 }
 
 html, body, #root {
+  width: 100%;
   height: 100%;
   margin: 0;
   padding: 0;
-  overflow-y: hidden;
+  overflow-x: hidden;
 }
 
-@media (prefers-color-scheme: light) {
+/* @media (prefers-color-scheme: light) {
   :root {
     color: #213547;
     background-color: #ffffff;
@@ -32,4 +33,4 @@ html, body, #root {
   button {
     background-color: #f9f9f9;
   }
-}
+} */
